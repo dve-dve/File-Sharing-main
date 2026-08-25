@@ -1,2 +1,3 @@
-Pyrogram
-TgCrypto
+herePyrogram==2.0.106
+PySocks==1.7.1
+pyaes==1.6.1
